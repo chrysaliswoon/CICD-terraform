@@ -1,5 +1,7 @@
 # CICD-terraform
-This project illustrates the whole CI/CD pipeline using Terraform
+This project illustrates the whole CI/CD pipeline using Terraform. 
+
+Before doing this, ensure that your AWS credentials are loaded
 
 # Terrform Workflow
 
