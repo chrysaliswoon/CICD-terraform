@@ -1,5 +1,5 @@
 locals {
-  topic-name = "updates-topic"
+  topic-name = "update-topics"
 }
 
 resource "aws_sns_topic" "user_updates" {
